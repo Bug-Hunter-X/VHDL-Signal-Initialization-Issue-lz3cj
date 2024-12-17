@@ -1,0 +1,3 @@
+# VHDL Signal Initialization Bug
+
+This repository demonstrates a common but subtle bug in VHDL code related to signal initialization.  Incorrect initialization of signals can lead to unexpected behavior and difficult-to-debug problems. The bug involves improper initialization that may not reflect the intended default state of the signal.  The solution showcases how to correctly initialize the signal to achieve the desired default state, and how to handle initialization more robustly.
